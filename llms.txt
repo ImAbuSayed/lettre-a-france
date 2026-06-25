@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/lettre-a-france/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Lettre À France](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lettre-a-france/) |
+| **Get License** | [License this song: Lettre À France](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lettre-a-france/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> On ride dans Paname, bébé, let's lose control
+> Ton parfum sur ma peau, you're touching my soul
+> Sous les néons de la ville, on roule toute la nuit
+> Sensuelle et chic, t'es la mélodie de ma vie
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `81f1dcbc4f2bb84c7082ef46afaf78128120913e3bd21924c22f89d1bd0231a1` |
 | **Timestamp** | June 25, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
